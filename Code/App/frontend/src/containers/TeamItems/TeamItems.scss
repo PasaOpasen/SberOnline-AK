@@ -1,0 +1,14 @@
+@import "../../../public/scss/variables";
+
+.skill-items {margin-bottom: 40px;
+  @media (max-width: $mobile) {padding-top: 50px;}
+
+  &-data {display: flex; flex-wrap: wrap; padding-top: 10px; align-items: center;
+    &-emoji {font-size: 60px;}
+    &-number {font-size: 20px; margin-left: 50px;}
+  }
+  &-title {font-size: $large; font-weight: 600;}
+  &-empty {padding: 70px 30px; line-height: 25px; font-weight: 800;
+    font-size: 20px; text-align: center; color: #d4d4d4;
+  }
+}

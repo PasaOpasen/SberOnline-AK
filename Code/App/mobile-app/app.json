@@ -1,0 +1,12 @@
+{
+  "name": "sbercode-app-react-native",
+  "displayName": "sbercode-app-react-native",
+  "expo": {
+    "name": "sbercode-app-react-native",
+    "slug": "sbercode-app-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
