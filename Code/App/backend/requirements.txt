@@ -1,5 +1,5 @@
 Django==3.0.8
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 joblib==0.15.1
 numpy==1.18.4
 PyStemmer==2.0.1
